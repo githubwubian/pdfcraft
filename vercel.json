@@ -8,6 +8,10 @@
     {
       "source": "/pdfjs-viewer/viewer.html",
       "destination": "/pdfjs-viewer/viewer/"
+    },
+    {
+      "source": "/direct-pdf-editor/index.html",
+      "destination": "/direct-pdf-editor/"
     }
   ],
   "headers": [
